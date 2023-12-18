@@ -1,0 +1,9 @@
+node1_ip: 
+node2_ip: 
+node3_ip: 
+node1_ipe: 
+node2_ipe: 
+node3_ipe: 
+pcs_password: "hacluster_123"
+gfs_ip: 
+gfs_portal: iqn.2023-12.ru.otus:storage.target00
