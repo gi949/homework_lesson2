@@ -41,7 +41,7 @@ terraform apply
 
 ansible all -m ping
 
-В файлах группоых переменных в group_vars/ ввести external_ip_address и nternal_ip_address
+В файлах групповых переменных в group_vars/ ввести external_ip_address и nternal_ip_address
 
 для ВМ gfs, web1, web2 и web3, а также iqn портала iscsi и пароль кластера psc
 
